@@ -1,5 +1,5 @@
 # AVR-Projects
-Explore AVR microcontroller projects – your gateway to hands-on innovation. Step-by-step guides, schematics, and code samples await.
+Explore AVR Microcontroller projects – your gateway to hands-on innovation. Step-by-step guides, schematics, and code samples await.
 <h6>
   ATMega32 MCU Projects
 </h6>
